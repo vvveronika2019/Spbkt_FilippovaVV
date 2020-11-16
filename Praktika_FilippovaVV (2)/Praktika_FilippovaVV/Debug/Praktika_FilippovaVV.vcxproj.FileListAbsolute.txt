@@ -1,0 +1,3 @@
+C:\Users\Maxim\source\repos\Praktika_FilippovaVV\Praktika_FilippovaVV\Debug\Praktika_FilippovaVV.vcxprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Praktika_FilippovaVV\Praktika_FilippovaVV\Debug\PraktikaFilippovaVV.MyForm.resources
+C:\Users\Maxim\source\repos\Praktika_FilippovaVV\Praktika_FilippovaVV\Debug\Praktika_FilippovaVV.vcxproj.GenerateResource.cache
